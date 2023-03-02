@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hamzyyy
 - 👀 I’m interested in Embedded Systems, MCU, ML, DL
-- 🌱 I’m currently learning python, ML
-- 💞️ I’m looking to collaborate on awsome projects that include MCU, embedded systems with ML
+- 🌱 I’m currently learning verilog, python and ML
+- 💞️ I’m looking to collaborate on awsome projects that include MCU, embedded systems.
 - 📫 How to reach me through my email muhammad.hamdy.hassan@gmail.com
 
 <!---
